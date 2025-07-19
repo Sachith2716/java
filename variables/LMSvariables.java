@@ -6,10 +6,10 @@ public class LMSvariables {
         // Student → ID, Name, Email, Password, Gender, Mobile Number etc 
         // define datatypes
         short studentID = 101;
-        String studentName = "Ravi";
-        String studentEmail = "ravi@gmail.com";
-        String studentPassword = "pass@123$%^";
-        char studentGender_1 = 'F';
+        String studentName = "Sachith";
+        String studentEmail = "sachithuttarwar@gmail.com";
+        //String studentPassword = "pass@123$%^";
+        char studentGender_1 = 'M';
         boolean isStudentMale = true;
         long studentMobileNumber = 9000090;
 
