@@ -8,7 +8,7 @@ public class Assessment1 {
         String Displacement = "2184 cc";
         String MaxPower = "130bhp@3750rpm";
         String MaxTorque = "300Nm@1600-2800rpm";
-        int Cylinders = 4;
+        byte Cylinders = 4;
         int VPC = 4;
         String FSS = "CRDi";
         Boolean TarboCharger= true;
