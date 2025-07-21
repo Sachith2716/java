@@ -9,7 +9,7 @@ public class Assessment1 {
         String MaxPower = "130bhp@3750rpm";
         String MaxTorque = "300Nm@1600-2800rpm";
         byte Cylinders = 4;
-        int VPC = 4;
+        byte VPC = 4;
         String FSS = "CRDi";
         Boolean TarboCharger= true;
         String TransmissionType = "Manual";
