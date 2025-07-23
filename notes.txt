@@ -315,3 +315,13 @@
             -> >> (Right Shift)
                 -> Moves the bits right specified by number of positions, let the rightmost
                 bits falls off (pushing zeros in from left)
+
+
+
+
+23rd July
+=========
+
+    -> Operators LAB With LMS Scenario
+    -> TASK - Calculate Monthly EMI
+    -> TASK - Simple Bank Transactions
