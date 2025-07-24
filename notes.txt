@@ -353,3 +353,15 @@
                 -> continue
                 -> return
 
+
+23rd July
+=========
+
+    ->Control Statements
+        ->Conditional Statements
+            ->if statement: Runs a block of code if the condition is true.
+            ->if-else statement: Runs one block of code if the condition is true, 
+            and another block of code if it’s false.
+            ->else if ladder: Allows checking multiple conditions in sequence.
+            ->switch statement: An alternative to if-else when you have multiple 
+            possible conditions for a single variable.
