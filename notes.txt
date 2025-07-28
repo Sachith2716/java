@@ -354,7 +354,7 @@
                 -> return
 
 
-23rd July
+24rd July
 =========
 
     ->Control Statements
@@ -365,3 +365,10 @@
             ->else if ladder: Allows checking multiple conditions in sequence.
             ->switch statement: An alternative to if-else when you have multiple 
             possible conditions for a single variable.
+
+
+25th July
+    Looping Statements
+        For Loop - Intro
+        While Loop - Intro
+        Do While - Intro
