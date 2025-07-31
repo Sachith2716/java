@@ -436,3 +436,52 @@
             -> Class Level -> Instance Variables
             -> Inside Methods -> Local Variables
             -> Using Static keyword -> Static Variables
+
+
+
+
+30th July
+=========
+
+
+    -> Instance Variables
+
+        -> Declared inside a class, but outside the method and not Static
+        -> Belong to each object
+        -> Memory is allocated when an object is created
+        -> can have default values, if not initialized
+
+    -> Local Variables
+
+        -> Declared inside a method, Constructors or Blocks
+        -> Only accessible within method, Constructors or Blocks, in which 
+            its's Declared
+        -> Must be initialized before use 
+
+    -> Static Variables
+
+        -> Belong to class, not individual Objects
+        -> Only one copy exists, meaning shared across all Objects
+        -> Accessed using class name 
+        -> Initialized Only once, at the time of class loading  
+
+    -> Methods
+
+        -> Method is a block of code that performs a TASK / ACTION
+
+        -> Method Declaration
+
+            -> Method Header         
+            -> Method Body
+
+            // simple
+            -> accessModifier returnType/void methodName (parametersList) {
+                // method body
+                return value;
+            }
+
+            // complex
+            -> accessModifier static/non-static returnType/void methodName (parametersList) throws ExceptionsList{
+                // method body
+                return value;
+            }
