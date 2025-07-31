@@ -485,3 +485,10 @@
                 // method body
                 return value;
             }
+
+
+31st July
+=========
+
+    -> LMS With Classes, Objects & Methods.(Static and Dynamic): Student and Trainer Data
+    
