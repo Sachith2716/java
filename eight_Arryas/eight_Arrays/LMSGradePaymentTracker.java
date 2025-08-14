@@ -2,6 +2,7 @@
 // vars - data types - operators - conditionals - loops 
 // classes - methods(variations) - objects - constructors
 
+package eight_Arrays;
 
 
 public class LMSGradePaymentTracker {

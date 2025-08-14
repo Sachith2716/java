@@ -3,6 +3,7 @@
 // classes - methods(variations) - objects - constructors
 // Arrays 
 
+package eight_Arrays;
 
 
 import java.util.Scanner;

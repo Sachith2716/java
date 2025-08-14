@@ -1,4 +1,7 @@
+package eight_Arrays;
 import java.util.Scanner;
+
+
 
 public class Trainer {
     // instance variables

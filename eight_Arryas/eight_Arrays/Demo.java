@@ -1,3 +1,5 @@
+package eight_Arrays;
+
 public class Demo {
     public static void main(String[] args) {
         // datatype[] arrayName = new datatype[size];
