@@ -662,4 +662,22 @@
     -> data = "hello" -> size
     -> bk_data = "hello" -> size
 
-    
+8th Aug
+=======  
+     -> String Immutability
+
+        -> Once a string is created, it cannot be modified
+
+    -> NOTE - When you modify a string, like using concat(), 
+        every time a new object is created, this leads to
+        performance issues
+
+    -> To overcome this, java has provided two classes to get Mutable Strings
+
+        -> StringBuffer (Thread Safe)
+        -> StringBuilder (Non-Thread Safe)
+
+    -> LMS App With Strings    
+
+
+
