@@ -773,3 +773,18 @@
 ========
 
     -> LMS By Using Encapsulation Project 10
+
+
+
+20th Aug
+========
+
+-> Abstraction - Hiding implementation and showing only the essential features of an object.
+
+-> To work with Abstraction, we need to know about
+
+    -> Interfaces
+    -> Abstract Classes
+
+-> A class is a Blueprint for an object
+
