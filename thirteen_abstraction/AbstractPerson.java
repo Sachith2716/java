@@ -40,7 +40,15 @@ public abstract class AbstractPerson {
     }
 
 
-    
+     // Display Trainer Details -> as it's a contract
+    public void displayPersonDetails(){
+        System.out.println("======= Trainer Info =======");
+        System.out.println("ID: "+getPersonID());
+        System.out.println("Name: "+getPersonName());
+        System.out.println("Age: "+getPersonAge());
+        System.out.println("Mobile: "+getPersonMobileNumber());
+        System.out.println("======= Trainer Info =======");
+    }
 
     
 
