@@ -843,3 +843,8 @@
 ========
 
     -> Applying Abstraction On LMS Project
+
+ 23rd Aug
+========
+
+    -> Applying Abstraction On LMS Project- Part 2 (updates and errors Verification)
