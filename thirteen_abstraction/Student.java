@@ -66,10 +66,10 @@ public class Student extends AbstractPerson implements Personable, Payables{
 
         System.out.println("Enter Student Mobile Number: ");
         setPersonMobileNumber(sc.nextLong());
+        sc.nextLine();
 
         System.out.println("Enter Description: ");
-        sc.nextLine();
-        setStudentDescription(getStudentDescription());
+        setStudentDescription(sc.nextLine());
 
         System.out.println("Enter Course Fee: ");
         setCourseFee(sc.nextDouble());
